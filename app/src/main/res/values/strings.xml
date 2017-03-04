@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <!-- Titles -->
+    <!-- Title naming the activity MovieData Details -->
+    <string name="title_activity_movie_details">Movie Details</string>
+
+    <!-- UI text -->
+    <!-- Headline for release date -->
+    <string name="heading_release_date">Release Date</string>
+    <!-- Headline for user vote average -->
+    <string name="heading_vote_average">Vote Average</string>
+    <!-- Runtime text -->
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_found">No summary was found</string>
+
+    <!-- Some strings used for example layout during design -->
+    <string name="example_original_title">An Example Title</string>
+    <string name="example_release_date">08–31–2015</string>
+    <string name="example_vote_average">8.2/10</string>
+    <string name="example_overview">An example overview</string>
+    <string name="example_review">An example review</string>
+
+
+    <!-- Lifetime and Bundle -->
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+    <string name="detail_fragment_key">DETAIL_FRAGMENT</string>
+    <string name="selected_item_key">SELECTED_ITEM</string>
+
+    <!-- Preference items -->
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULARITY_DESC</string>
+
+    <!-- Themoviedb sort strings for url -->
+    <!-- tmdb sort for most popular -->
+    <string name="sort_most_popular">movie/popular</string>
+    <!-- tmdb sort for top rated -->
+    <string name="sort_top_rated">movie/top_rated</string>
+    <string name="description_movie_poster">Contains poster of movie</string>
+
+    <!-- Error user information -->
+    <string name="error_need_internet">This application needs Internet connection to function.</string>
+
+    <string name="position_key">POSITION_KEY</string>
+    <string name="bundle_movie_key">BUNDLE_MOVIE_KEY</string>
+    <string name="base_url">https://api.themoviedb.org/3</string>
+    <string name="tmdb_posterpath_w185">https://image.tmdb.org/t/p/w185</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+</resources>

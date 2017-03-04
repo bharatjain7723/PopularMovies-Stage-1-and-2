@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Created by Magnus Ringkjøb
+    String constants
+-->
+
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!-- Titles -->
+    <!-- Title naming the activity Movie Details -->
+    <string name="title_activity_movie_details">Movie Details</string>
+
+    <!-- UI text -->
+    <!-- Headline for release date -->
+    <string name="heading_release_date">Release Date</string>
+    <!-- Headline for user vote average -->
+    <string name="heading_vote_average">Vote Average</string>
+    <!-- Runtime text -->
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_found">No summary was found</string>
+
+    <!-- Some strings used for example layout during design -->
+    <string name="example_original_title">Memento</string>
+    <string name="example_release_date">10–20–2000</string>
+    <string name="example_vote_average">7.8/10</string>
+    <string name="example_review">We all lie to ourselves to be happy.
+
+        It\'s not until a film like Memento comes along, or that you personally have to deal with
+        someone close who suffers a form of this subject to hand, that you get jolted to remember
+        just how your memory is such a prized and treasured thing - and crucially that it\'s one of
+        your key safety devices.
+
+        Christopher and Jonathan Nolan crafted one of the best films of 2000 based on those facets
+        of the human condition. Their protagonist is Leonard Shelby, played with stupendous
+        believability by Guy Pearce, who is suffering from a memory amnesia caused by a trauma to
+        the head as he tried to aide his wife who was raped and murdered. He can remember things
+        before the incident, but anything post that and he can\'t form a memory. So who can he
+        trust? Does he know any of the few people who appear to be in his life at the
+        present time? He tattoos his body to help him remember, constantly writes notes to keep
+        him alert in his now alien world, while all the time he is on the search for the man who
+        ruined his life.
+
+        Christopher Nolan plants the audience right into Leonard\'s world. By using a reverse story
+        telling structure it\'s deliberately complex and ingenious given that it opens with the
+        ending! It has been argued that it\'s trickery for trickery sake, style over substance, but
+        the way each scene is built upon in the narrative is a thing of high quality, it\'s all
+        relevant and demands the closest of attention from the viewer, where cheekily we are
+        ourselves asked to form memories of prior narrative passages. Mystery is strong throughout,
+        the characters currently in Leonard\'s life may have different means and motives, it keeps
+        us alert, with the confusion, lies, manipulations, enigmas and amnesia angles booming with
+        neo-noir vibrancy. And the Nolan\'s know their noir of course, adding a narrator who is hard
+        to define or trust himself!
+
+        The reverse structure wasn\'t new in 2000, but Christopher Nolan picks up the idea and adds
+        new strands to it, simultaneously bringing his visual ticks as David Julyan\'s musical score
+        shifts from elegiac forebodings to pulse pounding dread, and as evidenced by the darling
+        easter egg option that allows one to watch it in chronological order, it\'s a damn fine
+        thriller without the reverse trickery anyway. Super. 9/10</string>
+    <string name="example_overview">Suffering short-term memory loss after a head injury, Leonard
+        Shelby embarks on a grim quest to find the lowlife who murdered his wife in this gritty,
+        complex thriller that packs more knots than a hangman\'s noose. To carry out his plan,
+        Shelby snaps Polaroids of people and places, jotting down contextual notes on the backs
+        of photos to aid in his search and jog his memory. He even tattoos his own body in a
+        desperate bid to remember.</string>
+
+
+    <!-- Lifetime and Bundle -->
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+    <string name="detail_fragment_key">DETAIL_FRAGMENT</string>
+    <string name="selected_item_key">SELECTED_ITEM</string>
+
+    <!-- Preference items -->
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULARITY_DESC</string>
+
+    <!-- Themoviedb sort strings for url -->
+    <!-- tmdb sort 'popularity.desc' -->
+    <string name="tmdb_sort_pop_desc">popularity.desc</string>
+    <!-- tmdb sort 'vote_average.desc' -->
+    <string name="tmdb_sort_vote_avg_desc">vote_average.desc</string>
+    <string name="description_movie_poster">Contains poster of movie</string>
+
+    <!-- Error user information -->
+    <string name="error_need_internet">Unable to retrieve data. Please check network
+        connection</string>
+    <string name="position_key">POSITION_KEY</string>
+    <string name="bundle_movie_key">BUNDLE_MOVIE_KEY</string>
+    <string name="base_url">https://api.themoviedb.org/</string>
+    <string name="tmdb_posterpath_w185">https://image.tmdb.org/t/p/w185</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+</resources>
