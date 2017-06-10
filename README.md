@@ -9,5 +9,7 @@ I have created a database and content provider to store the names and ids of the
 I have modify the existing sorting criteria for the main view to include an additional pivot to show their favorites collection.
 In Stage 1, I built a UI that presented the user with a grid of movie posters, allowed users to change sort order, and presented a screen with additional information on the movie selected by the user:
 
+![alt text](https://github.com/bharatjain7723/PopularMovies-Stage-1-and-2/blob/master/popmov.png)
+
 What I Learned After Stage 2?
 i have built a fully featured application that looks and feels natural on the latest Android operating system (Nougat, as of November 2016). 
